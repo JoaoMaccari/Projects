@@ -10,8 +10,9 @@ body{
     font-family: 'Roboto', sans-serif;
 }
 
-.a{
+a{
     text-decoration: none;
+    color: inherit;
 }
 
 .btn{
@@ -43,6 +44,7 @@ body{
     background: #111;
     color: #eee;
     height: 80px;
+    position: fixed;
 }
 
 #navbar-container{
@@ -222,5 +224,15 @@ body{
     margin: 10px;
 }
 
+
+/*   FOOTER    */
+
+
+#footer{
+    background: #222;
+    color:#eee;
+    padding: 30px;
+    text-align: center;
+}
 
 
