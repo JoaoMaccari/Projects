@@ -213,6 +213,8 @@ a{
 
 .gallery-container{
     display: flex;
+    margin-left: 230px;
+    margin-top: 20px;
 
 }
 
